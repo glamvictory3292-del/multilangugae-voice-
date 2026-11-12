@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+reportlab
+av<19
+python-dotenv
+pyannote.audio
+demucs
